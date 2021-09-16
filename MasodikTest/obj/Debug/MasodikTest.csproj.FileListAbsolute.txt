@@ -1,0 +1,7 @@
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2021-22 tanév\2-14 Ekszo\CSharp\Attirobert\BeregSzF2-14Ekszo-CSharp\MasodikTest\bin\Debug\MasodikTest.exe.config
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2021-22 tanév\2-14 Ekszo\CSharp\Attirobert\BeregSzF2-14Ekszo-CSharp\MasodikTest\bin\Debug\MasodikTest.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2021-22 tanév\2-14 Ekszo\CSharp\Attirobert\BeregSzF2-14Ekszo-CSharp\MasodikTest\bin\Debug\MasodikTest.pdb
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2021-22 tanév\2-14 Ekszo\CSharp\Attirobert\BeregSzF2-14Ekszo-CSharp\MasodikTest\obj\Debug\MasodikTest.csproj.AssemblyReference.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2021-22 tanév\2-14 Ekszo\CSharp\Attirobert\BeregSzF2-14Ekszo-CSharp\MasodikTest\obj\Debug\MasodikTest.csproj.CoreCompileInputs.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2021-22 tanév\2-14 Ekszo\CSharp\Attirobert\BeregSzF2-14Ekszo-CSharp\MasodikTest\obj\Debug\MasodikTest.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2021-22 tanév\2-14 Ekszo\CSharp\Attirobert\BeregSzF2-14Ekszo-CSharp\MasodikTest\obj\Debug\MasodikTest.pdb

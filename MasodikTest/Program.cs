@@ -10,6 +10,8 @@ namespace MasodikTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Helló Világ!");
+            Console.ReadKey();
         }
     }
 }
