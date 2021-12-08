@@ -1,10 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
     "\\2021.09.16",
     "\\MasodikTest",
     "\\MasodikTest\\bin",
     "\\MasodikTest\\bin\\Debug"
+=======
+    "\\Test4\\Test4"
+>>>>>>> 7d28bcd9ccaaa30bfe4e610ef352c42a77cf8c34
   ],
   "PreviewInSolutionExplorer": false
 }
